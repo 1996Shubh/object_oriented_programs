@@ -1,0 +1,54 @@
+{
+  "Rice":[
+    {
+      "Name":"Basmati",
+      "Price per kg":100,
+      "Weight" :15
+    },
+    {
+       "Name":"Daawat",
+       "Price per kg":108,
+       "Weight" :25
+    },
+    {
+       "Name":"Fortune",
+       "Price per kg":70,
+       "Weight" :30
+    }
+         ],
+  "Pulses":[
+    {
+       "Name":"TATA",
+       "Price per kg":55,
+       "Weight" :100
+    },
+    {
+       "Name":"Parle",
+       "Price per kg":85,
+       "Weight" :50
+    },
+    {
+       "Name":"ITC",
+       "Price per kg":110,
+       "Weight" :40
+    }
+          ],
+  "Wheat's":[
+    {
+       "Name":"Aashirvaad",
+       "Price per kg":32,
+       "Weight" :10
+    },
+    {
+       "Name":"Daawat",
+       "Price per kg":28,
+       "Weight" :20
+    },
+    {
+       "Name":"Kellog",
+       "Price per kg":30,
+       "Weight" :5
+    }
+            ]
+}
+
